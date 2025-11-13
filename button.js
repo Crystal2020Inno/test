@@ -1,3 +1,4 @@
+console.log('button.js loaded');
 
 document.addEventListener('DOMContentLoaded', () => {
     const buttonel = document.querySelector('.buttonel');
