@@ -1,4 +1,4 @@
-<script>
+
 document.addEventListener('DOMContentLoaded', () => {
     const buttonel = document.querySelector('.buttonel');
     const subscribe = document.querySelector('.subscribe');
@@ -8,4 +8,4 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 });
 
-</script>
+
